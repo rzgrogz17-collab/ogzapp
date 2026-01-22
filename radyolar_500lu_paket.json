@@ -1,5 +1,15 @@
-[
-    {
+ [
+        { "stationuuid": "tr-kral-01", "name": "Kral FM", "url": "http://46.20.3.201:80/", "favicon": "", "country": "Turkey", "tags": "arabesk" },
+        { "stationuuid": "tr-trt-02", "name": "TRT FM", "url": "https://trt.asmncdn.com/trt/trtfm/playlist.m3u8", "favicon": "", "country": "Turkey", "tags": "pop" },
+        { "stationuuid": "tr-power-03", "name": "Power Türk", "url": "https://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio", "favicon": "", "country": "Turkey", "tags": "pop" },
+        { "stationuuid": "tr-metro-04", "name": "Metro FM", "url": "https://anadolu.liderhost.com.tr:10955/;stream.mp3", "favicon": "", "country": "Turkey", "tags": "pop" },
+        { "stationuuid": "tr-super-05", "name": "Süper FM", "url": "https://anadolu.liderhost.com.tr:10950/;stream.mp3", "favicon": "", "country": "Turkey", "tags": "pop" },
+        { "stationuuid": "tr-joy-06", "name": "Joy Türk", "url": "https://anadolu.liderhost.com.tr:10960/;stream.mp3", "favicon": "", "country": "Turkey", "tags": "slow" },
+        { "stationuuid": "tr-fenomen-07", "name": "Radyo Fenomen", "url": "https://listen.powerapp.com.tr/fenomen/mpeg/icecast.audio", "favicon": "", "country": "Turkey", "tags": "dance" },
+        { "stationuuid": "tr-slow-08", "name": "Slow Türk", "url": "https://radyo.dogannet.tv/slowturk", "favicon": "", "country": "Turkey", "tags": "slow" },
+        { "stationuuid": "tr-best-09", "name": "Best FM", "url": "https://best.hostingradyo.com/9840/stream", "favicon": "", "country": "Turkey", "tags": "pop" },
+        { "stationuuid": "tr-virgin-10", "name": "Virgin Radio TR", "url": "https://anadolu.liderhost.com.tr:10965/;stream.mp3", "favicon": "", "country": "Turkey", "tags": "pop" },
+       
         "changeuuid": "e5c09afc-b2af-4e3a-a998-247f54e17a44",
         "stationuuid": "376610fe-f91e-4b9e-b0ed-0350afe57dbc",
         "serveruuid": null,
@@ -124,7 +134,7 @@
         "url": "https://laut.fm/country-fm24?autoplay=1",
         "url_resolved": "https://laut.fm/country-fm24?autoplay=1",
         "homepage": "https://country-fm24.com/index.html",
-        "favicon": "https://country-fm24.com/images/logo_country_fm24_200x200.png",
+        "favicon": "https://country-fm24.com/favicon.ico",
         "tags": "country music",
         "country": "Germany",
         "countrycode": "DE",
