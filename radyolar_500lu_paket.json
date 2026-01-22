@@ -10,7 +10,7 @@
         { "stationuuid": "tr-best-09", "name": "Best FM", "url": "https://best.hostingradyo.com/9840/stream", "favicon": "", "country": "Turkey", "tags": "pop" },
         { "stationuuid": "tr-virgin-10", "name": "Virgin Radio TR", "url": "https://anadolu.liderhost.com.tr:10965/;stream.mp3", "favicon": "", "country": "Turkey", "tags": "pop" },
        
-        "changeuuid": "e5c09afc-b2af-4e3a-a998-247f54e17a44",
+       { "changeuuid": "e5c09afc-b2af-4e3a-a998-247f54e17a44",
         "stationuuid": "376610fe-f91e-4b9e-b0ed-0350afe57dbc",
         "serveruuid": null,
         "name": "coloRadio",
@@ -15610,4 +15610,5 @@
         "has_extended_info": false
     }
 ]
+
 
