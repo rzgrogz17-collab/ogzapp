@@ -1,72 +1,61 @@
 [
-  {
-    "name": "Kral FM",
-    "url": "http://46.20.3.201:80/",
-    "favicon": "https://www.kralmuzik.com.tr/assets/img/kral-fm-logo.png",
-    "country": "Türkiye",
-    "tags": "arabesk,fantezi"
-  },
-  {
-    "name": "TRT FM",
-    "url": "https://trt.asmncdn.com/trt/trtfm/playlist.m3u8",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TRT_FM_logo.png/600px-TRT_FM_logo.png",
-    "country": "Türkiye",
-    "tags": "pop,haber"
-  },
-  {
-    "name": "Power Türk",
-    "url": "https://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio",
-    "favicon": "https://upload.wikimedia.org/wikipedia/tr/6/66/Power_T%C3%BCrk_logo.png",
-    "country": "Türkiye",
-    "tags": "pop,türkçe pop"
-  },
-  {
-    "name": "Metro FM",
-    "url": "https://anadolu.liderhost.com.tr:10955/;stream.mp3",
-    "favicon": "https://upload.wikimedia.org/wikipedia/tr/1/10/Metro_FM_logo.png",
-    "country": "Türkiye",
-    "tags": "pop,yabancı pop"
-  },
-  {
-    "name": "Süper FM",
-    "url": "https://anadolu.liderhost.com.tr:10950/;stream.mp3",
-    "favicon": "https://upload.wikimedia.org/wikipedia/tr/1/13/S%C3%BCper_FM_logo.png",
-    "country": "Türkiye",
-    "tags": "pop,türkçe pop"
-  },
-  {
-    "name": "Joy Türk",
-    "url": "https://anadolu.liderhost.com.tr:10960/;stream.mp3",
-    "favicon": "https://upload.wikimedia.org/wikipedia/tr/5/52/Joy_T%C3%BCrk_logo.png",
-    "country": "Türkiye",
-    "tags": "slow,türkçe pop"
-  },
-  {
-    "name": "Radyo Fenomen",
-    "url": "https://listen.powerapp.com.tr/fenomen/mpeg/icecast.audio",
-    "favicon": "https://upload.wikimedia.org/wikipedia/tr/0/07/Radyo_Fenomen_logo.png",
-    "country": "Türkiye",
-    "tags": "pop,yabancı pop"
-  },
-  {
-    "name": "Slow Türk",
-    "url": "https://radyo.dogannet.tv/slowturk",
-    "favicon": "https://upload.wikimedia.org/wikipedia/tr/a/a2/Slow_T%C3%BCrk_logo.png",
-    "country": "Türkiye",
-    "tags": "slow,türkçe slow"
-  },
-  {
-    "name": "Best FM",
-    "url": "https://best.hostingradyo.com/9840/stream",
-    "favicon": "https://upload.wikimedia.org/wikipedia/tr/c/c5/Best_FM_logo.png",
-    "country": "Türkiye",
-    "tags": "pop,türkçe pop"
-  },
-  {
-    "name": "Virgin Radio Türkiye",
-    "url": "https://anadolu.liderhost.com.tr:10965/;stream.mp3",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Virgin_Radio_logo.svg/1200px-Virgin_Radio_logo.svg.png",
-    "country": "Türkiye",
-    "tags": "pop,yabancı pop"
-  }
+  { "name": "Kral FM", "url": "http://46.20.3.201:80/", "favicon": "", "country": "Türkiye", "tags": "arabesk" },
+  { "name": "TRT FM", "url": "https://trt.asmncdn.com/trt/trtfm/playlist.m3u8", "favicon": "", "country": "Türkiye", "tags": "pop" },
+  { "name": "Power Türk", "url": "https://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio", "favicon": "", "country": "Türkiye", "tags": "pop" },
+  { "name": "Metro FM", "url": "https://anadolu.liderhost.com.tr:10955/;stream.mp3", "favicon": "", "country": "Türkiye", "tags": "pop" },
+  { "name": "Süper FM", "url": "https://anadolu.liderhost.com.tr:10950/;stream.mp3", "favicon": "", "country": "Türkiye", "tags": "pop" },
+
+  { "name": "Antenne Bayern", "url": "https://stream.antenne.de/antenne/stream/mp3", "favicon": "", "country": "Germany", "tags": "pop" },
+  { "name": "Rock Antenne", "url": "https://stream.rockantenne.de/rockantenne/stream/mp3", "favicon": "", "country": "Germany", "tags": "rock" },
+  { "name": "BigFM", "url": "http://live.bigfm.de/bigfm-mp3-128", "favicon": "", "country": "Germany", "tags": "hiphop" },
+  { "name": "TechnoBase.FM", "url": "http://listen.technobase.fm/mp3.pls", "favicon": "", "country": "Germany", "tags": "techno" },
+  { "name": "SWR3", "url": "https://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3", "favicon": "", "country": "Germany", "tags": "pop" },
+
+  { "name": "Sky.fm", "url": "http://pub1.sky.fm/sky_classical_hi", "favicon": "", "country": "United States", "tags": "classical" },
+  { "name": "Jazz24", "url": "https://live.kexp.org/kexp/kexp128.mp3", "favicon": "", "country": "United States", "tags": "jazz" },
+  { "name": "KEXP 90.3", "url": "http://live-mp3-128.kexp.org/kexp128.mp3", "favicon": "", "country": "United States", "tags": "indie" },
+  { "name": "WNYC", "url": "http://fm939.wnyc.org/wnycfm", "favicon": "", "country": "United States", "tags": "news" },
+  { "name": "SomaFM Groove Salad", "url": "http://ice1.somafm.com/groovesalad-128-mp3", "favicon": "", "country": "United States", "tags": "ambient" },
+
+  { "name": "BBC Radio 1", "url": "http://stream.live.vc.bbc.co.uk/bbc_radio_one", "favicon": "", "country": "United Kingdom", "tags": "pop" },
+  { "name": "Capital FM", "url": "http://ice-the.musicradio.com/CapitalMP3", "favicon": "", "country": "United Kingdom", "tags": "pop" },
+  { "name": "Heart London", "url": "http://ice-the.musicradio.com/HeartLondonMP3", "favicon": "", "country": "United Kingdom", "tags": "pop" },
+  { "name": "LBC News", "url": "http://ice-the.musicradio.com/LBCNews", "favicon": "", "country": "United Kingdom", "tags": "news" },
+  { "name": "Classic FM", "url": "http://ice-the.musicradio.com/ClassicFMMP3", "favicon": "", "country": "United Kingdom", "tags": "classical" },
+
+  { "name": "Skyrock", "url": "http://icecast.skyrock.net/s/natio_mp3_128k", "favicon": "", "country": "France", "tags": "rap" },
+  { "name": "NRJ France", "url": "http://cdn.nrjaudio.fm/adwapi/php/wm/get.php?id=1", "favicon": "", "country": "France", "tags": "pop" },
+  { "name": "Chérie FM", "url": "http://cdn.nrjaudio.fm/adwapi/php/wm/get.php?id=3", "favicon": "", "country": "France", "tags": "pop" },
+  { "name": "Nostalgie France", "url": "http://cdn.nrjaudio.fm/adwapi/php/wm/get.php?id=2", "favicon": "", "country": "France", "tags": "oldies" },
+  { "name": "Radio France Inter", "url": "http://direct.franceinter.fr/live/franceinter-midfi.mp3", "favicon": "", "country": "France", "tags": "news" },
+
+  { "name": "Radio Italia", "url": "http://stream.radioitalia.it/", "favicon": "", "country": "Italy", "tags": "pop" },
+  { "name": "RDS", "url": "http://icecast.rds.it/rds", "favicon": "", "country": "Italy", "tags": "pop" },
+  { "name": "Radio 105", "url": "http://icecast.unitedradio.it/105.mp3", "favicon": "", "country": "Italy", "tags": "pop" },
+  { "name": "Radio Kiss Kiss", "url": "http://ice08.fluidstream.net:8080/KissKiss.mp3", "favicon": "", "country": "Italy", "tags": "pop" },
+  { "name": "RAI Radio 1", "url": "http://icestreaming.rai.it/1.mp3", "favicon": "", "country": "Italy", "tags": "news" },
+
+  { "name": "Los 40 Spain", "url": "https://streaming.prisaradio.com/los40_madrid.mp3", "favicon": "", "country": "Spain", "tags": "pop" },
+  { "name": "Cadena SER", "url": "https://streaming.prisaradio.com/cadenaser_madrid.mp3", "favicon": "", "country": "Spain", "tags": "news" },
+  { "name": "Rock FM Spain", "url": "http://api.cope.stream.flumotion.com/cope/rockfm.mp3", "favicon": "", "country": "Spain", "tags": "rock" },
+  { "name": "Radio Marca", "url": "http://radiomarca.streaming-online.es:8003/liveradiomarca.mp3", "favicon": "", "country": "Spain", "tags": "sports" },
+  { "name": "RNE Radio Nacional", "url": "http://rtve.stream.flumotion.com/rtve/radio1.mp3", "favicon": "", "country": "Spain", "tags": "news" },
+
+  { "name": "Radio Record", "url": "http://online.radiorecord.ru:8101/rr_128", "favicon": "", "country": "Russia", "tags": "dance" },
+  { "name": "Europa Plus", "url": "http://europaplus.hostingradio.ru:8014/ep128.mp3", "favicon": "", "country": "Russia", "tags": "pop" },
+  { "name": "Dorognoe Radio", "url": "http://dorognoe.hostingradio.ru:8000/dorognoe", "favicon": "", "country": "Russia", "tags": "pop" },
+  { "name": "Retro FM", "url": "http://retroserver.hostingradio.ru:8043/retro128.mp3", "favicon": "", "country": "Russia", "tags": "oldies" },
+  { "name": "Radio Dacha", "url": "http://vdfm.ru:8000/dacha", "favicon": "", "country": "Russia", "tags": "pop" },
+
+  { "name": "Dromos FM", "url": "http://dromos.live24.gr/dromos898", "favicon": "", "country": "Greece", "tags": "pop" },
+  { "name": "Rythmos 94.9", "url": "http://rythmos.live24.gr/rythmos949", "favicon": "", "country": "Greece", "tags": "pop" },
+  { "name": "Sfera 102.2", "url": "http://sfera.live24.gr/sfera1022", "favicon": "", "country": "Greece", "tags": "pop" },
+  { "name": "Diesi 101.3", "url": "http://diesi.live24.gr/diesi1013", "favicon": "", "country": "Greece", "tags": "soft" },
+  { "name": "Real FM", "url": "http://real.live24.gr/realfm", "favicon": "", "country": "Greece", "tags": "news" },
+
+  { "name": "Radio 538", "url": "https://stream.radio538.nl/radio538/mp3", "favicon": "", "country": "The Netherlands", "tags": "pop" },
+  { "name": "NPO Radio 1", "url": "http://icecast.omroep.nl/radio1-bb-mp3", "favicon": "", "country": "The Netherlands", "tags": "news" },
+  { "name": "Sky Radio", "url": "https://stream.skyradio.nl/skyradio/mp3", "favicon": "", "country": "The Netherlands", "tags": "pop" },
+  { "name": "Radio 10", "url": "https://stream.radio10.nl/radio10/mp3", "favicon": "", "country": "The Netherlands", "tags": "oldies" },
+  { "name": "Qmusic NL", "url": "https://stream.qmusic.nl/qmusic/mp3", "favicon": "", "country": "The Netherlands", "tags": "pop" }
 ]
