@@ -124,7 +124,7 @@
         "url": "https://laut.fm/country-fm24?autoplay=1",
         "url_resolved": "https://laut.fm/country-fm24?autoplay=1",
         "homepage": "https://country-fm24.com/index.html",
-        "favicon": "https://country-fm24.com/favicon.ico",
+        "favicon": "https://country-fm24.com/images/logo_country_fm24_200x200.png",
         "tags": "country music",
         "country": "Germany",
         "countrycode": "DE",
@@ -15600,3 +15600,4 @@
         "has_extended_info": false
     }
 ]
+
